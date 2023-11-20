@@ -1,11 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: " en-US" }}">
-<!-- <html lang="{{ site.lang | default: " en-US" }}" class="dark"> -->
+<html lang="{{ site.lang | default: "en-US" }}">
+<!-- <html lang="{{ site.lang | default: "en-US" }}" class="dark"> -->
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ site.title }}</title>
+
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="non_profit" />
+    <meta property="og:image" content="https://philipboeken.github.io/assets/philip.jpeg" />
+    <meta property="og:url" content="https://philipboeken.github.io" />
+    <meta property="og:site_name" content="{{ site.title }}" />
 
     <!-- <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}"> -->
     <!-- <link rel="stylesheet" href="/assets/css/main.css"> -->
