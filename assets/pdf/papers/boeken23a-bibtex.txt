@@ -1,0 +1,12 @@
+@inproceedings{boeken2023correcting,
+  title = {Correcting for Selection Bias and Missing Response in Regression Using Privileged Information},
+  booktitle = {Proceedings of the {{Thirty-Ninth Conference}} on {{Uncertainty}} in {{Artificial Intelligence}}},
+  author = {Boeken, P. and de Kroon, Noud and de Jong, Mathijs and Mooij, Joris M. and Zoeter, Onno},
+  year = {2023},
+  month = jul,
+  pages = {195--205},
+  publisher = {{PMLR}},
+  issn = {2640-3498},
+  url = {https://proceedings.mlr.press/v216/boeken23a.html},
+  langid = {english}
+}
