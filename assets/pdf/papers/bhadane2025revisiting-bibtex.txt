@@ -1,0 +1,14 @@
+@inproceedings{bhadane2025revisiting,
+  title =      {Revisiting the Berkeley Admissions data: Statistical Tests for Causal Hypotheses},
+  author =     {Bhadane, Sourbh and Mooij, Joris Marten and Boeken, Philip and Zoeter, Onno},  
+  booktitle =  {Proceedings of the Forty-first Conference on Uncertainty in Artificial Intelligence}, 
+  pages =      {271--295},
+  year =       {2025},
+  editor =     {Chiappa, Silvia and Magliacane, Sara},
+  volume =     {286},
+  series =     {Proceedings of Machine Learning Research},
+  month =      {21--25 Jul},
+  publisher =  {PMLR},
+  pdf =        {https://raw.githubusercontent.com/mlresearch/v286/main/assets/bhadane25a/bhadane25a.pdf},
+  url =        {https://proceedings.mlr.press/v286/bhadane25a.html}
+}
